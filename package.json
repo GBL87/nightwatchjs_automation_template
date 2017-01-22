@@ -5,7 +5,9 @@
   "main": "test.js",
   "dependencies": {
     "chromedriver": "^2.27.2",
-    "nightwatch": "^0.9.12"
+    "headless": "^1.2.0",
+    "nightwatch": "^0.9.12",
+    "selenium-server": "^3.0.1"
   },
   "devDependencies": {},
   "scripts": {
