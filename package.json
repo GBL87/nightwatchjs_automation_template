@@ -1,0 +1,20 @@
+{
+  "name": "testautomation",
+  "version": "1.0.0",
+  "description": "Test Automation",
+  "main": "test.js",
+  "dependencies": {
+    "nightwatch": "^0.9.12"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gwenbleyen@bitbucket.org/gwenbleyen/testautomation.git"
+  },
+  "author": "Gwen Bleyen",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/gwenbleyen/testautomation#readme"
+}
