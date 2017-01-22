@@ -4,6 +4,7 @@
   "description": "Test Automation",
   "main": "test.js",
   "dependencies": {
+    "chromedriver": "^2.27.2",
     "nightwatch": "^0.9.12"
   },
   "devDependencies": {},
